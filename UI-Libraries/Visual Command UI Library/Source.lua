@@ -246,7 +246,7 @@ Library.Themes = {
         SecondaryColor = Color3.fromRGB(50, 50, 50),
         AccentColor = Color3.fromRGB(100, 100, 100),
         PrimaryTextColor = Color3.fromRGB(255, 255, 255),
-        SecondaryTextColor = Color3.fromRGB(175, 175, 175)
+        SecondaryTextColor = Color3.fromRGB(176, 175, 175)
     },
     ['light'] = {
         BackgroundColor = Color3.fromRGB(255, 255, 255),
